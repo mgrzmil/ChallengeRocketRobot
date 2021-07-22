@@ -1,0 +1,11 @@
+Ustawianie zmiennych środowiskowych
+Linux
+export ROBOT_USERNAME=nazwa_uzytkownika
+export ROBOT_PASSWORD=haslo_uzytkownika
+
+Windows
+set ROBOT_USERNAME=nazwa_uzytkownika
+set ROBOT_PASSWORD=haslo_uzytkownika
+
+Uruchomienie
+robot ChellangeRocket.robot
